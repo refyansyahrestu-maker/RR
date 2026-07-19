@@ -1,0 +1,6 @@
+{
+  "name": "Spreadsheet Customer Feedback",
+  "description": "A collaborative customer feedback tracking system integrated directly with Google Sheets and Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
